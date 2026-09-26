@@ -6,7 +6,7 @@
 <p>
 Ph.D. Student @ <a href="https://www.seu.edu.cn/"><b>SEU</b></a> · AI Agents × Chip Design<br>
 B.Eng. @ <a href="https://www.wust.edu.cn/"><b>WUST</b></a> ·
-Co-founder of <b>MindSparks AI</b> & <b>Buckyball</b>
+Co-founder of <b>Mianbao AI</b> & <b>Buckyball</b>
 </p>
 
 <p>
